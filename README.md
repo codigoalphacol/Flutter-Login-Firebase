@@ -1,12 +1,11 @@
-# logincloud
-
 ![Codigo Alpha Flutter]
 
 ![alt text](https://github.com/codigoalphacol/Flutter-Login-Firebase/blob/master/assets/images/singin.png)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Login + Flutter + Firebase 
+Email or Google Sign In
 
 A few resources to get you started if this is your first Flutter project:
 
