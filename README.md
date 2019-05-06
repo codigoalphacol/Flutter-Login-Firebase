@@ -2,7 +2,7 @@
 
 ![Codigo Alpha Flutter]
 
-![alt text](https://github.com/codigoalphacol/FlutterFirebaseGoogleMapsMarkers/blob/master/assets/images/singin.png)
+![alt text](https://github.com/codigoalphacol/Flutter-Login-Firebase/blob/master/assets/images/singin.png)
 
 ## Getting Started
 
